@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: senrv38eg-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/senrv38eg-java-quarkus-gitops
